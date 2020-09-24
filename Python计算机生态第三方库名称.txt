@@ -1,0 +1,7 @@
+网络爬虫：requests、scrapy、pyspider
+数据分析：numpy、pandas、scipy
+文本处理：pdfminer、python-docx、beautifulsoup4
+机器学习：scikit-learn、TensorFlow、mxnet
+Web开发：Django、pyramind、flask
+游戏开发：pygame、Panda3d、Cocos2d
+大数据分析：opencv-python、NLTK、networkx
